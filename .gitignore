@@ -1,0 +1,5 @@
+*.vux
+*.bak_000F
+*.bak_001D
+*.bak_002D
+.idea/*

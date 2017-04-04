@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andrew/CLionProjects/GenericDictionary/Dictionary.h
+KeyValue.h
+C:/Users/Andrew/CLionProjects/GenericDictionary/KeyValue.h
+
+C:/Users/Andrew/CLionProjects/GenericDictionary/KeyValue.h
+
+C:/Users/Andrew/CLionProjects/GenericDictionary/testMain.cpp
+iostream
+-
+string
+-
+Dictionary.h
+C:/Users/Andrew/CLionProjects/GenericDictionary/Dictionary.h
+
